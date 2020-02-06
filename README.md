@@ -1,3 +1,4 @@
 # LojaMVC
- Loja usando o método MVC
--necessário importar o banco de dados primeiro.
+ Loja usando o método MVC 
+
+	-Necessário importar o banco de dados primeiro.
